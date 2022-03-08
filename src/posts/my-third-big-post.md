@@ -113,7 +113,3 @@ console.log(foo(5));
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
 Autoconverted link https://github.com/nodeca/pica
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
